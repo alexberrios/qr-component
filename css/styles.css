@@ -20,6 +20,7 @@ main{
 
 main img{
     height: 300px;
+    border-radius: 15px;
 }
 
 main h1{
